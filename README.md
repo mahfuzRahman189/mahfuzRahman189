@@ -16,7 +16,7 @@ Codeforces: [mahfuzrahman](https://codeforces.com/profile/mahfuzrahman)
 CodeChef: [mahfuz_rahman](https://www.codechef.com/users/mahfuz_rahman)
 
 ## Connect with Me
-LinkedIn: [Md. Mahfuzur Rahman](linkedin.com/in/md-mahfuzur-rahman-152747256)
+LinkedIn: [Md. Mahfuzur Rahman](https://www.linkedin.com/in/md-mahfuzur-rahman-152747256/)
 
 Feel free to connect with me to discuss opportunities, collaborations, or any cool projects!
 
