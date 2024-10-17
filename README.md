@@ -7,7 +7,8 @@ Hi there! I'm Md. Mahfuzur Rahman, a passionate and dedicated Computer Science E
 ## Skills
 Programming Languages: C++, Java
 
-## Areas of Interest: Competitive Programming, Software Development
+## Areas of Interest: 
+Competitive Programming, Software Development
 
 ## Competitive Programming Profiles
 Codeforces: [mahfuzrahman](https://codeforces.com/profile/mahfuzrahman)
