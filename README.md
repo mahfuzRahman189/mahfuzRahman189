@@ -10,12 +10,12 @@ Programming Languages: C++, Java
 ## Areas of Interest: Competitive Programming, Software Development
 
 ## Competitive Programming Profiles
-Codeforces: [Your Codeforces Profile Link](https://codeforces.com/profile/mahfuzrahman)
+Codeforces: [mahfuzrahman](https://codeforces.com/profile/mahfuzrahman)
 
-CodeChef: [Your CodeChef Profile Link](https://www.codechef.com/users/mahfuz_rahman)
+CodeChef: [mahfuz_rahman](https://www.codechef.com/users/mahfuz_rahman)
 
 ## Connect with Me
-LinkedIn: [Your LinkedIn Profile Link](https://codeforces.com/profile/mahfuzrahman)
+LinkedIn: [Md. Mahfuzur Rahman](https://codeforces.com/profile/mahfuzrahman)
 
 Feel free to connect with me to discuss opportunities, collaborations, or any cool projects!
 
