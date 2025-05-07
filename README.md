@@ -5,10 +5,10 @@ Location: Sylhet, Bangladesh Education: CSE Student, Leading University, Sylhet 
 Hi there! I'm Md. Mahfuzur Rahman, a passionate and dedicated Computer Science Engineering student from Leading University, Sylhet. My interests span across competitive programming and software development. I love solving problems and exploring new challenges in the tech world.
 
 ## Skills
-Programming Languages: C++, Java
+Programming Languages: Python,C,C++, Java, Dart
 
 ## Areas of Interest: 
-Competitive Programming, Software Development
+Competitive Programming, Android Development
 
 ## Competitive Programming Profiles
 Codeforces: [mahfuzrahman](https://codeforces.com/profile/mahfuzrahman)
