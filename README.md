@@ -15,7 +15,7 @@ I'm a passionate Computer Science and Engineering student from Sylhet, Banglades
 * 🎓 I’m currently a CSE student at **Leading University, Sylhet**.
 * 🌱 I’m currently learning more about **Android Development** and sharpening my **Data Structures and Algorithms** skills.
 * 👯 I’m looking to collaborate on **Open Source projects** related to Android Development or Java.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-mahfuzur-rahman-a4884622b/)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-mahfuzur-rahman-152747256/)
 * ⚡ Fun fact: I love to participate in competitive programming contests in my free time.
 
 ---
