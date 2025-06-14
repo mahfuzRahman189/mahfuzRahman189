@@ -50,7 +50,7 @@ I am an active competitive programmer. You can find my profiles here:
 ## 🔗 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/md-mahfuzur-rahman-a4884622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuzur-rahman-a4884622b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mahfuzur-rahman-152747256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuzur-rahman-a4884622b" height="30" width="40" /></a>
 </p>
 
 ---
