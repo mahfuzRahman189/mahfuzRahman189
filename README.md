@@ -53,7 +53,7 @@ I am an active competitive programmer. You can find my profiles here:
   <a href="https://www.linkedin.com/in/md-mahfuzur-rahman-152747256/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuzur-rahman-a4884622b" height="30" width="40" />
   </a>
-  <a href="[https://facebook.com/your-facebook-profile-url](https://www.facebook.com/mohammad.mahfuz.5817)" target="blank">
+  <a href="https://www.facebook.com/mohammad.mahfuz.5817" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-facebook-profile-url" height="30" width="40" />
   </a>
   <a href="mailto:mahfuzurrahman8587@gmail.com">
